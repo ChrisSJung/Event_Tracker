@@ -4,7 +4,7 @@
 
 ## Running Instructions
 
-Pull from Github and open the project in Intellij. To run program first install the GSON library: in Intellij go to Project structure and install GSON library from Maven (com.google.code.gson:gson:2.8.5) as well as the apache library (org.apache.commons:commons-text:1.9) also from maven. 
+Pull from Github and open the project in Intellij. To run program first install the GSON library: in Intellij go to Project structure and install GSON library from Maven (com.google.code.gson:gson:2.8.5) as well as the apache library (org.apache.commons:commons-text:1.9) also from maven. Mark Directory Phase2/src as source root.
 
 Note: This can also be done using any other Java compatible IDE.
 
